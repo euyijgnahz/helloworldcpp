@@ -1,4 +1,4 @@
-# helloworldc(its for fun
+# helloworldc(not cpp (its for fun
 ## guide:
 (in run.sh its:)
 ```c
